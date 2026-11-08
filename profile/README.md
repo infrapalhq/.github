@@ -4,28 +4,25 @@
 
 # InfraPal
 
-**Your infrastructure co-pilot.**
+**Your Infrastructure Optimisation Copilot.**
 
-InfraPal turns your existing cloud infrastructure into clear, cost-efficient
-changes you can deploy in minutes.
+We help developers and scaling teams understand, optimise and confidently act on their Cloud and AI infrastructure through open-source tools, tailored solutions and hands-on expertise.
 
-[infrapal.io](https://infrapal.io) · [Book a demo](https://calendly.com/infrapal)
+[Explore InfraPal](https://infrapal.io) · [Schedule a Demo](https://calendly.com/infrapal)
 
 </div>
 
-## What InfraPal does
+## Open Source
 
-- **See your infrastructure.** A visual map of what you run, and how it connects.
-- **Know what it costs.** Cost estimates and visualisations before you change anything.
-- **Fix it safely.** Terraform rewrites you can review, try out safely and deploy.
+### [InfraPal Token Advisor](https://github.com/infrapalhq/infrapal-token-advisor)
 
-## Open source
+**Less token waste. Better AI workflows.**
 
-### [infrapal-token-advisor](https://github.com/infrapalhq/infrapal-token-advisor)
+Understand what's driving token usage in your AI coding workflows. Token Advisor helps identify inefficiencies and opportunities to optimise.
 
-Our first open source tool. A local dashboard that finds wasted Claude Code
-tokens and hands you the fix. Your data stays on your machine: no account, no
-cloud, no proxy.
+Token Advisor provides a local dashboard for exploring token usage, reviewing potential inefficiencies and finding practical recommendations.
+
+**Get started on macOS with Homebrew:**
 
 ```sh
 brew install --cask infrapalhq/tap/infrapal-token-advisor
@@ -33,10 +30,42 @@ token-advisor init
 token-advisor ui
 ```
 
+For supported platforms, installation alternatives and usage instructions, visit the [Token Advisor repository](https://github.com/infrapalhq/infrapal-token-advisor).
+
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/16290/badge)](https://www.bestpractices.dev/projects/16290)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/infrapalhq/infrapal-token-advisor/badge)](https://securityscorecards.dev/viewer/?uri=github.com/infrapalhq/infrapal-token-advisor)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/infrapalhq/infrapal-token-advisor/blob/main/LICENSE)
 
-Questions go in [Discussions](https://github.com/infrapalhq/infrapal-token-advisor/discussions),
-and bugs in [Issues](https://github.com/infrapalhq/infrapal-token-advisor/issues).
-To contribute, read [CONTRIBUTING.md](https://github.com/infrapalhq/infrapal-token-advisor/blob/main/CONTRIBUTING.md).
+### Get Involved
+
+We welcome feedback, ideas and contributions.
+
+- **Questions and ideas:** [GitHub Discussions](https://github.com/infrapalhq/infrapal-token-advisor/discussions)
+- **Bugs and feature requests:** [GitHub Issues](https://github.com/infrapalhq/infrapal-token-advisor/issues)
+- **Contributing:** [CONTRIBUTING.md](https://github.com/infrapalhq/infrapal-token-advisor/blob/main/CONTRIBUTING.md)
+
+---
+
+## About InfraPal
+
+**Our mission:** Making scalable innovation more accessible.
+
+**Our vision:** A future where scalable technology is not limited by complexity, cost or access to specialised expertise.
+
+**Our approach:** AI-powered, service-first and customer-led. We combine software development with hands-on infrastructure expertise to help teams understand their systems, make informed decisions and implement meaningful improvements.
+
+**Copilot, not autopilot.** Technology should support human expertise and decision-making, not replace it.
+
+### What We Focus On
+
+- **Infrastructure visibility.** Helping teams better understand their Cloud and AI environments.
+- **Cost and resource optimisation.** Identifying inefficiencies and opportunities to improve infrastructure efficiency.
+- **Practical implementation.** Turning insights into actionable improvements through tailored solutions and close collaboration.
+
+---
+
+<div align="center">
+
+[Website](https://infrapal.io) · [Schedule a Demo](https://calendly.com/infrapal)
+
+</div>
